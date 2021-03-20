@@ -1,0 +1,37 @@
+.card {
+  width: 210px;
+  margin: 20px;
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.card img {
+  display: block;
+  width: 180px;
+  margin: 20px auto 10px auto;
+}
+
+.card h3 {
+  margin: 0 0 15px 0;
+}
+
+.quantity {
+  display: flex; 
+  width: 93px;
+  margin: 0 auto;
+}
+
+.quantity input, .quantity button {
+  width: 30px;
+}
+
+.quantity input {
+  text-align: center;
+}
+
+.quantity input:focus {
+  outline: none;
+}

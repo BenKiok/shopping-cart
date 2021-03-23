@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+.shop h2 {
+  margin-left: 12px;
+}
+
 .shop .items {
   display: grid;
   justify-content: center;

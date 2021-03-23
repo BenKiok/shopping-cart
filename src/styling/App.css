@@ -19,9 +19,13 @@ nav a {
   font-weight: 700;
 }
 
-nav .fa-shopping-cart {
+nav .shoppingCart {
   margin-left: auto;
   margin-right: 20px;
   font-size: 1.4rem;
   cursor: pointer;
+}
+
+nav .shoppingCart span {
+  margin-right: 5px;
 }

@@ -18,8 +18,13 @@
   margin: 0 0 15px 0;
 }
 
+.card .cart {
+  display: inline;
+  margin-left: 15px;
+}
+
 .quantity {
-  display: flex; 
+  display: inline-flex; 
   width: 93px;
   margin: 0 auto;
 }
